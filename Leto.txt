@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Anna Markova
 QA ingeneer
 manual
+=======
+>>>>>>> parent of 2223d73 (Update Leto.txt)
