@@ -8,3 +8,4 @@ manual
 =======
 Anna Markova
 >>>>>>> parent of 2f0c7bd (Merge branch 'iss53')
+final
