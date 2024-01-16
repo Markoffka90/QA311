@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Anna Markova
 QA ingeneer
 manual
 =======
 >>>>>>> parent of 2223d73 (Update Leto.txt)
+=======
+Anna Markova
+>>>>>>> parent of 2f0c7bd (Merge branch 'iss53')
